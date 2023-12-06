@@ -127,23 +127,6 @@ h2{
 .inside2{
     flex: 1;
 }
-.line{
-    display: flex;
-    width: 100%;
-}
-.line hr{
-    height: 8px;
-}
-.line1{
-    flex: 4;
-}
-.line2{
-    flex: 1;
-}
-.line2 hr{
-    margin-left: -50px;
-    background-color: gray;
-}
 
 .progress-container {
     width: 80%;
